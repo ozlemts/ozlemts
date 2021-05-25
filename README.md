@@ -7,7 +7,7 @@
   - [Editable box component with React Hooks](https://dev.to/ozlemts/editable-text-area-component-with-react-hooks-5g23)
   - [Kullanılmayan CSS leri Görüntüleme](https://dev.to/ozlemts/kullanilmayan-css-leri-goruntuleme-1jg9)
 
-<h5>⭐️Languages and Tools</h5>
+<h5>Languages and Tools</h5>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
