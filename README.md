@@ -1,5 +1,5 @@
 <h2>Hi, I'm Özlem!</h2>
-<img align='right' src="https://images.procreate.art/97395/5beaa7445812e0124.jpg" width="230" />
+
 <p><em>Frontend Developer @ <a href="https://viveka.com.tr/">Viveka</a></em>
 
 <h4> Latest Blog Posts: </h4>
