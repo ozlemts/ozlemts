@@ -1,6 +1,5 @@
 <h2>Hi, I'm Özlem!</h2>
 
-<p><em>Frontend Developer @ <a href="https://viveka.com.tr/">Viveka</a></em>
 
 <h4> Latest Blog Posts: </h4>
 
