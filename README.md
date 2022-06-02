@@ -1,10 +1,6 @@
 <h2>Hi, I'm Özlem!</h2>
-
-
-<h4> Latest Blog Posts: </h4>
-
-  - [Editable box component with React Hooks](https://dev.to/ozlemts/editable-text-area-component-with-react-hooks-5g23)
-  - [Kullanılmayan CSS leri Görüntüleme](https://dev.to/ozlemts/kullanilmayan-css-leri-goruntuleme-1jg9)
+I am from Turkey. I am living in the Netherlands since 2021 October.In here I am working as a freelancer. 
+I made many MVPs for startups. I like to create custom dashboards. 
 
 <h5>Languages and Tools</h5>
 
