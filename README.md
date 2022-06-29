@@ -2,6 +2,10 @@
 I am from Turkey. I am living in the Netherlands since 2021 October.In here I am working as a freelancer. 
 I made many MVPs for startups. I like to create custom dashboards. 
 
+[**Bölüm 1) echarts.js & Next.js ile Nasıl Dashboard Oluşturabiliriz?**]([http://markdown-here.com](https://dev.to/ozlemts/echartjs-nextjs-ile-nasil-dashboard-olusturabiliriz-16ep))<br>
+
+
+
 <h5>Languages and Tools</h5>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
