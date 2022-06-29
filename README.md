@@ -4,6 +4,10 @@ I made many MVPs for startups. I like to create custom dashboards.
 
 [**Bölüm 1) echarts.js & Next.js ile Nasıl Dashboard Oluşturabiliriz?**](https://dev.to/ozlemts/echartjs-nextjs-ile-nasil-dashboard-olusturabiliriz-16ep)<br>
 
+[**Bölüm 2) Next.js, TailwindCss ve echarts.js kurulumu**](https://dev.to/ozlemts/bolum-2-nextjs-tailwindcss-ve-echartsjs-kurulumu-35m5)<br>
+
+[**Bölüm 3) echarts.js ile ilk grafiğimiz**](https://dev.to/ozlemts/bolum-3-echartsjs-ile-ilk-grafigimiz-26fb)<br>
+
 
 
 <h5>Languages and Tools</h5>
